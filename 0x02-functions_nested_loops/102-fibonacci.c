@@ -13,7 +13,7 @@ int main(void)
 		sum = fibo1 + fibo2;
 		printf("%lu", sum);
 
-		fibo1 = fib02;
+		fibo1 = fibo2;
 		fib02 = sum;
 
 		if (count == 49)
