@@ -14,7 +14,7 @@ void puts2(char *str)
 	while (*y != '\0')
 	{
 		y++;
-		a;
+		a++;
 	}
 	b = a - 1;
 	for (o = 0; o <= b; o++)
